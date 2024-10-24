@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaraB333
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning all about AI and becoming a full AI professional, with all the skills that come with it!
 - 🌱 I’m currently learning html, CSS, Javascript, Python and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email: sara.blackburn31@gmail.com
